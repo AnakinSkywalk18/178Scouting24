@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2024ctwat",
+      "defaultValue": "2024mawne",
       "required": "true"
     },
     { "name": "Match Level",
